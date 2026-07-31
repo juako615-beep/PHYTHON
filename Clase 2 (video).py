@@ -10,3 +10,5 @@ nombre=5
 type(nombre) #operador type
 nombre= "joaquin"
 type(nombre) #operador type
+dad=6
+
