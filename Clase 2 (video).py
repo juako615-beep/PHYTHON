@@ -10,5 +10,11 @@ nombre=5
 type(nombre) #operador type
 nombre= "joaquin"
 type(nombre) #operador type
-dad=6
-
+mensaje= "esto es un mensaje de tres lineas"
+print(mensaje)
+Numero1= 8
+Numero2= 7
+if Numero1>Numero2: #operador if 
+    print("el numero 1 es mayor que el numero 2") 
+else:
+    print("el numero 2 es mayor que el numero 1")
