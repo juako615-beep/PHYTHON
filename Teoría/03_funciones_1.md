@@ -12,6 +12,6 @@ Es un bloque de código reutilizable que realiza una tarea específica.
 
 ## Estructura
 
-```python
+ 
 def nombre_funcion():
     instrucciones
